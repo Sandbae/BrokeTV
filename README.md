@@ -26,7 +26,7 @@
 </head>
 <body>
     <h1>BrokeTV</h1>
-    <p><em>Til broke people fra broke people ❤️</em></p>
+    <p><em>Til broke people fra broke people<3 </em></p>
     <div class="contact">
         <p><strong>Kontakt:</strong></p>
         <p>Sif Sandbæk, Louise Lundbek og Jasmin Spanggaard</p>
